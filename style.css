@@ -1,0 +1,10 @@
+.neighbors{
+    opacity: 0;
+}
+#neighbors img {
+    height: 120px;
+}
+#loading{
+    display: none;
+}
+
